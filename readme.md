@@ -1,6 +1,7 @@
+# Introduction
 This is for statistics learning. I will list some learning materials (books, videos, MOOCs) here and also practice some codes.
 
-# BOOKs
+# BOOKS
 1. James, G, Witten, D, Hastie, T., Tibshirani, R. (2013). An Introduction of Statistical Learning, with applications in R. Springer. (online version: https://www-bcf.usc.edu/~gareth/ISL/)
 2. Hastie, T., Tibshirani, R, Friedman, J. (2009). The Elements of Statistical Learning. 2nd edition, (2009). Springer. (oneline version: https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
@@ -14,3 +15,6 @@ This book focus on codes implementation for most common machine learning methods
 
 This books focus on how to use the packages in scikit-learn and tensorflow, which are more straightforward. 
 
+# MOOC
+1. coursera
+2. 
